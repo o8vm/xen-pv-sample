@@ -1,0 +1,4 @@
+kernel="./testkernel"
+memory=32
+name="Simplest_kernel"
+on_crash='destroy'
